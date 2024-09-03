@@ -1,0 +1,3 @@
+codigo1;descricaoBreve1;descricaoDetalhada;1;designacao1
+codigo2;descricaoBreve2;descricaoDetalhada;2;designacao2
+codigo3;descricaoBreve3;descricaoDetalhada;3;designacao3

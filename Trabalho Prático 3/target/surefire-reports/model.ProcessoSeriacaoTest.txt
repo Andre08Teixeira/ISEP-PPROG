@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: model.ProcessoSeriacaoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.105 sec <<< FAILURE! - in model.ProcessoSeriacaoTest
+testSeriarEClassificacoes(model.ProcessoSeriacaoTest)  Time elapsed: 0.011 sec  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at model.ProcessoSeriacao.mediaNiveis(ProcessoSeriacao.java:63)
+	at model.TipoRegimento1.compare(TipoRegimento1.java:31)
+	at model.TipoRegimento1.compare(TipoRegimento1.java:10)
+	at java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+	at java.util.TimSort.sort(TimSort.java:220)
+	at java.util.Arrays.sort(Arrays.java:1512)
+	at java.util.ArrayList.sort(ArrayList.java:1462)
+	at model.TipoRegimento1.seriar(TipoRegimento1.java:23)
+	at model.ProcessoSeriacao.seriarEClassificacoes(ProcessoSeriacao.java:95)
+	at model.ProcessoSeriacaoTest.testSeriarEClassificacoes(ProcessoSeriacaoTest.java:155)
+

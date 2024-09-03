@@ -1,0 +1,12 @@
+tarefa;referencia1;designacao1;descInformal1;descTecnica1;1;1
+ct;codigo1;descBreve1;descDet1;1;designacao1
+ct;codigo2;descBreve2;descDet2;2;designacao2
+ct;codigo3;descBreve3;descDet3;3;designacao3
+tarefa;referencia2;designacao2;descInformal2;descTecnica2;2;2
+ct;codigo1;descBreve1;descDet1;1;designacao1
+ct;codigo2;descBreve2;descDet2;2;designacao2
+ct;codigo3;descBreve3;descDet3;3;designacao3
+tarefa;referencia3;designacao3;descInformal3;descTecnica3;3;3
+ct;codigo1;descBreve1;descDet1;1;designacao1
+ct;codigo2;descBreve2;descDet2;2;designacao2
+ct;codigo3;descBreve3;descDet3;3;designacao3

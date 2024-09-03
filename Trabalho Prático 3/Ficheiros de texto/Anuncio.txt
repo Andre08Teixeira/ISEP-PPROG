@@ -1,0 +1,12 @@
+anuncio;2020/01/01;2020/02/02;2020/01/02;2020/01/31;2020/02/02;2020/02/15
+candid;2020/01/06;500;20;txtApresentacao1;txtMotivacao1
+candid;2020/01/18;350;25;txtApresentacao2;txtMotivacao2
+candid;2020/01/24;450;28;txtApresentacao3;txtMotivacao3
+anuncio;2020/01/01;2020/02/02;2020/01/02;2020/01/31;2020/02/02;2020/02/15
+candid;2020/01/06;500;20;txtApresentacao1;txtMotivacao1
+candid;2020/01/18;350;25;txtApresentacao2;txtMotivacao2
+candid;2020/01/24;450;28;txtApresentacao3;txtMotivacao3
+anuncio;2020/01/01;2020/02/02;2020/01/02;2020/01/31;2020/02/02;2020/02/15
+candid;2020/01/06;500;20;txtApresentacao1;txtMotivacao1
+candid;2020/01/18;350;25;txtApresentacao2;txtMotivacao2
+candid;2020/01/24;450;28;txtApresentacao3;txtMotivacao3
